@@ -1,0 +1,36 @@
+body {
+  /*background-color: powderblue;*/
+  line-height: 1.5em;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  /*字体颜色*/
+  color: #cccccc;
+  background-color: #373a3c;
+  font-family: "微软雅黑", "黑体", "宋体";
+  height: 36px;
+}
+h1 {
+  color: blue;
+}
+/*p {*/
+/*  color: red;*/
+/*}*/
+
+p {
+  position: absolute;
+  color: white;
+  /*top: 0;
+        left: 10;
+       */
+  font-family :楷体,sans-serif;
+  font-weight: bold;
+  font-size: 0.5em;
+  background: blue; /*设置字体背景颜色**/
+  top: 5%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+}
